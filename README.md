@@ -1,7 +1,7 @@
 # Memoru Game
 Simple memory game  
 
-![Screenshot](https://github.com/tty-monkey/memory-game/blob/main/screenshot.png)
+ <img src="https://github.com/tty-monkey/memory-game/blob/main/screenshot.png" width="600" />
 
 # How To Run
 * Install dependencies: `npm install`
