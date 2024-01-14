@@ -1,5 +1,5 @@
-# Memoru Game
-Simple memory game  
+# Memory Game
+Simple memory game implemented using React.js
 
  <img src="https://github.com/tty-monkey/memory-game/blob/main/screenshot.png" width="600" />
 
